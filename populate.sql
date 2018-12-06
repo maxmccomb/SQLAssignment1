@@ -1,3 +1,5 @@
+/* Max McComb 
+    Assignment1 */
 USE Business;
 
 INSERT INTO VENDOR VALUES  (1, 'Walmart', 'Moline', 200.00);

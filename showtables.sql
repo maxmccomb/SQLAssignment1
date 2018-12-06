@@ -1,3 +1,5 @@
+/* Max McComb 
+    Assignment1 */
 USE Business;
 
 SELECT * FROM VENDOR;

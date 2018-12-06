@@ -1,3 +1,5 @@
+/* Max McComb 
+    Assignment1 */
 CREATE DATABASE Business;
 USE Business;
 CREATE TABLE VENDOR 
